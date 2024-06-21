@@ -3,7 +3,8 @@
 Welcome to the **Iris Species Classifier** project! This repository contains the code for a web application that predicts the species of an Iris flower based on its features. The app uses a Random Forest Classifier to make predictions, providing a reliable and robust model for this classic dataset.
 ### Deployment
 App is live on Streamlit Community {link} and Hugging faces {link}.
-### Connect with me on LinkedIn {https://linkedin.com/in/dilkushsingh}
+# Connect with me on LinkedIn [Dilkush Singh](https://linkedin.com/in/dilkushsingh)
+
 
 ## 🧠 Project Overview
 
